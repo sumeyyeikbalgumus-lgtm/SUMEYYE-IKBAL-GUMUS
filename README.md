@@ -1,5 +1,5 @@
 # Hi there, I'm Sümeyye İkbal 
- This is my promotional website -> https://github.com/sumeyyeikbalgumus-lgtm/SUMEYYE-IKBAL-GUMUS.git
+ This is my promotional website -> https://sumeyyeikbalgumus-lgtm.github.io/SUMEYYE-IKBAL-GUMUS/
 
 🎓 **Computer Programming Student** | 💻 **Aspiring Software Engineer** | 🛡️ **Cybersecurity & Front-End Learner**
 
